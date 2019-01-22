@@ -1,5 +1,10 @@
-# TEST
+# NSF Brick Project 
 
 Hello World 
 
-## Heading 2
+## News
+
+## Publications
+
+## People
+**Joe Cavallaro** at Rice University and **Christoph Studer** at Corenll University.
