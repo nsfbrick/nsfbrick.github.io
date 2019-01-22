@@ -7,7 +7,7 @@ Hello World
 ## Publications
 
 ## People
-**Joe Cavallaro** at Rice University and **Christoph Studer** at Corenll University.
+[**Joe Cavallaro**](http://cavallaro.rice.edu/) at Rice University and [**Christoph Studer**](http://www.csl.cornell.edu/~studer/) at Corenll University.
 
 ## Contact Information
 Email us at nsfbrick@gmail.com
