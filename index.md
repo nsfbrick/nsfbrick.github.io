@@ -8,7 +8,7 @@ The project develops novel decentralized algorithms as well as very-large scale 
 
 ## Publications
 
-Li, Kaipeng and Sharan, Rishi R. and Chen, Yujun and Goldstein, Tom and Cavallaro, Joseph R. and Studer, Christoph. "Decentralized Baseband Processing for Massive MU-MIMO Systems," IEEE Journal on Emerging and Selected Topics in Circuits and Systems, v.7, 2017. doi:10.1109/JETCAS.2017.2775151 
+Li, Kaipeng and Sharan, Rishi R. and Chen, Yujun and Goldstein, Tom and Cavallaro, Joseph R. and Studer, Christoph. "Decentralized Baseband Processing for Massive MU-MIMO Systems," IEEE Journal on Emerging and Selected Topics in Circuits and Systems, v.7, 2017. [doi:10.1109/JETCAS.2017.2775151](doi:10.1109/JETCAS.2017.2775151)
 
 Jacobsson, Sven and Durisi, Giuseppe and Coldrey, Mikael and Goldstein, Tom and Studer, Christoph. "Quantized Precoding for Massive MU-MIMO," IEEE Transactions on Communications, v.65, 2017. doi:10.1109/TCOMM.2017.2723000 
 
