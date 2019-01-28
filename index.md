@@ -8,17 +8,17 @@ The project develops novel decentralized algorithms as well as very-large scale 
 
 ## Publications
 
-Li, Kaipeng and Sharan, Rishi R. and Chen, Yujun and Goldstein, Tom and Cavallaro, Joseph R. and Studer, Christoph. "Decentralized Baseband Processing for Massive MU-MIMO Systems," IEEE Journal on Emerging and Selected Topics in Circuits and Systems, v.7, 2017. [doi:10.1109/JETCAS.2017.2775151](doi:10.1109/JETCAS.2017.2775151)
+* [Li, Kaipeng and Sharan, Rishi R. and Chen, Yujun and Goldstein, Tom and Cavallaro, Joseph R. and Studer, Christoph. "Decentralized Baseband Processing for Massive MU-MIMO Systems," IEEE Journal on Emerging and Selected Topics in Circuits and Systems, v.7, 2017. doi:10.1109/JETCAS.2017.2775151](https://arxiv.org/abs/1702.04458)
 
-Jacobsson, Sven and Durisi, Giuseppe and Coldrey, Mikael and Goldstein, Tom and Studer, Christoph. "Quantized Precoding for Massive MU-MIMO," IEEE Transactions on Communications, v.65, 2017. doi:10.1109/TCOMM.2017.2723000 
+* [Jacobsson, Sven and Durisi, Giuseppe and Coldrey, Mikael and Goldstein, Tom and Studer, Christoph. "Quantized Precoding for Massive MU-MIMO," IEEE Transactions on Communications, v.65, 2017. doi:10.1109/TCOMM.2017.2723000](https://arxiv.org/abs/1610.07564)
 
-Jeon, Charles and Li, Kaipeng and Cavallaro, Joseph R. and Studer, Christoph. "On the achievable rates of decentralized equalization in massive MU-MIMO systems," IEEE International Symposium on Information Theory (ISIT), 2017. doi:10.1109/ISIT.2017.8006699  
+* [Jeon, Charles and Li, Kaipeng and Cavallaro, Joseph R. and Studer, Christoph. "On the achievable rates of decentralized equalization in massive MU-MIMO systems," IEEE International Symposium on Information Theory (ISIT), 2017. doi:10.1109/ISIT.2017.8006699](https://arxiv.org/abs/1705.02976)
 
-Jacobsson, Sven and Durisi, Giuseppe and Coldrey, Mikael and Gustavsson, Ulf and Studer, Christoph. "Throughput Analysis of Massive MIMO Uplink With Low-Resolution ADCs," IEEE Transactions on Wireless Communications, v.16, 2017. doi:10.1109/TWC.2017.2691318  
+* [Jacobsson, Sven and Durisi, Giuseppe and Coldrey, Mikael and Gustavsson, Ulf and Studer, Christoph. "Throughput Analysis of Massive MIMO Uplink With Low-Resolution ADCs," IEEE Transactions on Wireless Communications, v.16, 2017. doi:10.1109/TWC.2017.2691318](https://arxiv.org/pdf/1602.01139.pdf)
 
-Li, Kaipeng and Skaran, Riski and Chen, Yujun and Cavallaro, Joseph R. and Goldstein, Tom and Studer, Christoph. "Decentralized beamforming for massive MU-MIMO on a GPU cluster," IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2016. doi:10.1109/GlobalSIP.2016.7905910  C
+* [Li, Kaipeng and Skaran, Riski and Chen, Yujun and Cavallaro, Joseph R. and Goldstein, Tom and Studer, Christoph. "Decentralized beamforming for massive MU-MIMO on a GPU cluster," IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2016. doi:10.1109/GlobalSIP.2016.7905910](http://vip.ece.cornell.edu/papers/16GlobalSIP_decent.pdf)
 
-Li, Kaipeng and Chen, Yujun and Sharan, Rishi and Goldstein, Tom and Cavallaro, Joseph R. and Studer, Christoph. "Decentralized data detection for massive MU-MIMO on a Xeon Phi cluster," Asilomar Conference on Signals, System, and Computers, 2016. doi:10.1109/ACSSC.2016.7869083  
+* [Li, Kaipeng and Chen, Yujun and Sharan, Rishi and Goldstein, Tom and Cavallaro, Joseph R. and Studer, Christoph. "Decentralized data detection for massive MU-MIMO on a Xeon Phi cluster," Asilomar Conference on Signals, System, and Computers, 2016. doi:10.1109/ACSSC.2016.7869083](https://ieeexplore.ieee.org/document/7869083)
 
 ## People
 [**Joe Cavallaro**](http://cavallaro.rice.edu/) at Rice University and [**Christoph Studer**](http://vip.ece.cornell.edu) at Cornell University.
