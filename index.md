@@ -6,7 +6,9 @@ The project develops novel decentralized algorithms as well as very-large scale 
 
 ## News
 
-* [Kaipeng Li wins 2nd place in the student paper contest at Asilomar 2018](https://engineering.rice.edu/news/more-antennas-means-more-connectivity-mobile-devices)
+* Dec. 2018: Charles Jeon successfully defended his Ph.D. Thesis on massive MIMO data detection and feedforward architectures for decentralized baseband processing. We wish him good luck at Intel Labs in Hillsboro, OR!
+
+* Nov. 2018: [Kaipeng Li wins 2nd place in the student paper contest at Asilomar 2018](https://engineering.rice.edu/news/more-antennas-means-more-connectivity-mobile-devices)
 
 ## Publications
 
