@@ -24,6 +24,12 @@ The project develops novel decentralized algorithms as well as very-large scale 
 
 * [Li, Kaipeng and Chen, Yujun and Sharan, Rishi and Goldstein, Tom and Cavallaro, Joseph R. and Studer, Christoph. "Decentralized data detection for massive MU-MIMO on a Xeon Phi cluster," Asilomar Conference on Signals, System, and Computers, 2016. doi:10.1109/ACSSC.2016.7869083](https://ieeexplore.ieee.org/document/7869083)
 
+## Software
+
+* [MATLAB simulation framework for decentralized feedforward precoding](https://github.com/VIP-Group/DecentralizedFeedforwardPrecoder)
+
+* [MATLAB simulation framework for decentralized baseband processing with consensus-sharing algorithms for the uplink and downlink](https://github.com/VIP-Group/DBP)
+
 ## People
 [**Joe Cavallaro**](http://cavallaro.rice.edu/) at Rice University and [**Christoph Studer**](http://vip.ece.cornell.edu) at Cornell University.
 
