@@ -31,7 +31,15 @@ The project develops novel decentralized algorithms as well as very-large scale 
 * [MATLAB simulation framework for decentralized baseband processing with consensus-sharing algorithms for the uplink and downlink](https://github.com/VIP-Group/DBP)
 
 ## People
-[**Joe Cavallaro**](http://cavallaro.rice.edu/) at Rice University and [**Christoph Studer**](http://vip.ece.cornell.edu) at Cornell University.
+### Professors:
+* [**Joe Cavallaro**](http://cavallaro.rice.edu/) at Rice University.
+* [**Christoph Studer**](http://vip.ece.cornell.edu) at Cornell University.
+### Graduate Students:
+* [**Kaipeng Li**](http://kl33.blogs.rice.edu/) at Rice University.
+* [**Chance Tarver**](https://www.chancetarver.com) at Rice University.
+### Former Students:
+* [**Charles Jeon**](http://www.csl.cornell.edu/~jeon/) at Cornell University.
+
 
 ## Contact Information
 Email us at nsfbrick@gmail.com
