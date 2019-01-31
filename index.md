@@ -34,9 +34,11 @@ The project develops novel decentralized algorithms as well as very-large scale 
 ### Professors:
 * [**Joe Cavallaro**](http://cavallaro.rice.edu/) at Rice University.
 * [**Christoph Studer**](http://vip.ece.cornell.edu) at Cornell University.
+
 ### Graduate Students:
 * [**Kaipeng Li**](http://kl33.blogs.rice.edu/) at Rice University.
 * [**Chance Tarver**](https://www.chancetarver.com) at Rice University.
+
 ### Former Students:
 * [**Charles Jeon**](http://www.csl.cornell.edu/~jeon/) at Cornell University.
 
