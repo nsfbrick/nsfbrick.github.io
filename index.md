@@ -20,6 +20,7 @@ The project develops novel decentralized algorithms as well as very-large scale 
 
 * [Jacobsson, Sven and Durisi, Giuseppe and Coldrey, Mikael and Gustavsson, Ulf and Studer, Christoph. "Throughput Analysis of Massive MIMO Uplink With Low-Resolution ADCs," IEEE Transactions on Wireless Communications, v.16, 2017. doi:10.1109/TWC.2017.2691318](https://arxiv.org/pdf/1602.01139.pdf)
 
+### Preliminary Work 
 * [Li, Kaipeng and Skaran, Riski and Chen, Yujun and Cavallaro, Joseph R. and Goldstein, Tom and Studer, Christoph. "Decentralized beamforming for massive MU-MIMO on a GPU cluster," IEEE Global Conference on Signal and Information Processing (GlobalSIP), 2016. doi:10.1109/GlobalSIP.2016.7905910](http://vip.ece.cornell.edu/papers/16GlobalSIP_decent.pdf)
 
 * [Li, Kaipeng and Chen, Yujun and Sharan, Rishi and Goldstein, Tom and Cavallaro, Joseph R. and Studer, Christoph. "Decentralized data detection for massive MU-MIMO on a Xeon Phi cluster," Asilomar Conference on Signals, System, and Computers, 2016. doi:10.1109/ACSSC.2016.7869083](https://ieeexplore.ieee.org/document/7869083)
