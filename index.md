@@ -10,6 +10,9 @@ The project develops novel decentralized algorithms as well as very-large scale 
 
 * Nov. 2018: [Kaipeng Li wins 2nd place in the student paper contest at Asilomar 2018](https://engineering.rice.edu/news/more-antennas-means-more-connectivity-mobile-devices)
 
+![Kaipeng winning 2nd place](Kaipeng.jpg)
+
+
 ## Publications
 
 * [Li, Kaipeng and Sharan, Rishi R. and Chen, Yujun and Goldstein, Tom and Cavallaro, Joseph R. and Studer, Christoph. "Decentralized Baseband Processing for Massive MU-MIMO Systems," IEEE Journal on Emerging and Selected Topics in Circuits and Systems, v.7, 2017. doi:10.1109/JETCAS.2017.2775151](https://arxiv.org/abs/1702.04458)
