@@ -1,6 +1,6 @@
 ## BRICK: Breaking the I/O and Computation Bottlenecks in Massive MIMO Base Stations
 
-Massive multi-antenna (MIMO) wireless systems, in which the base-station is equipped with hundreds or thousands of antenna elements, will enable unprecedented data rates, cell coverage, and transmission reliability compared to that of existing cellular communication systems. The presence of hundreds or thousands of radio-frequency (RF) transceivers and antennas, however, results in excessively high interconnect and chip input-output data rates, as well as excessively high baseband processing complexity, which results bottlenecks that prevent a straightforward deployment of this technology in practical systems. 
+Massive multi-antenna (MIMO) wireless systems, in which the base-station is equipped with hundreds or thousands of antenna elements, will enable unprecedented data rates, cell coverage, and transmission reliability compared to that of existing cellular communication systems. The presence of hundreds or thousands of radio-frequency (RF) transceivers and antennas, however, results in excessively high interconnect and chip input/output (I/O) data rates, as well as excessively high baseband processing complexity, which results bottlenecks that prevent a straightforward deployment of this technology in practical systems. 
 
 ### Main Contributions:
 
