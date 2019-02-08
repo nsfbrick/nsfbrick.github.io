@@ -1,11 +1,9 @@
 ### BRICK: Breaking the I/O and Computation Bottlenecks in Massive MIMO Base Stations
 
-Massive multi-antenna (MIMO) wireless systems, in which the base-station is equipped with hundreds or thousands of antenna elements, will enable unprecedented data rates, cell coverage, and transmission reliability compared to that of existing cellular communication systems. 
+Massive multi-antenna (MIMO) wireless systems, in which the base-station is equipped with hundreds or thousands of antenna elements, will enable unprecedented data rates, cell coverage, and transmission reliability compared to that of existing cellular communication systems. The presence of hundreds or thousands of radio-frequency (RF) transceivers and antennas, however, results in excessively high interconnect and chip input-output data rates, as well as excessively high baseband processing complexity, which results bottlenecks that prevent a straightforward deployment of this technology in practical systems. 
 
-### Main Challenge:
-The presence of hundreds or thousands of radio-frequency (RF) transceivers and antennas, however, results in excessively high internal data rates, which results in chip-interconnect and computation bottlenecks that prevent a straightforward deployment of this technology in practice. 
+### Main Contributions:
 
-### Main Contribution:
 This project will develop new technologies that rely on **decentralized signal processing at the base-station** in order to avoid these bottlenecks, which leads to feasible and scalable solutions that enable base-station designs with thousands of antenna elements without sacrificing performance or reliability. In addition to enabling massive MIMO in practice, the project will advance future cellular networks through collaboration with the telecommunications industry, with the [Argos massive MIMO testbed](http://argos.rice.edu/), and other network research testbeds. The project's broader impact on education and outreach will include multiple components, including 
 * Training a diverse group of students as part of a collaborative, multi-institutional research team in the areas of communication theory and circuit design, 
 * Integrating outcomes of the work into undergraduate and graduate courses, and 
@@ -44,9 +42,9 @@ The project develops novel decentralized algorithms as well as very-large scale 
 * [MATLAB simulation framework for decentralized baseband processing with consensus-sharing algorithms for the uplink and downlink](https://github.com/VIP-Group/DBP)
 
 ## People
-### Professors:
-* [**Joe Cavallaro**](http://cavallaro.rice.edu/) at Rice University.
-* [**Christoph Studer**](http://vip.ece.cornell.edu) at Cornell University.
+### PIs:
+* [**Prof. Joe Cavallaro**](http://cavallaro.rice.edu/) at Rice University.
+* [**Prof. Christoph Studer**](http://vip.ece.cornell.edu) at Cornell University.
 
 ### Graduate Students:
 * [**Kaipeng Li**](http://kl33.blogs.rice.edu/) at Rice University.
